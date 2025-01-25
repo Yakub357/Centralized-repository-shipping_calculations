@@ -1,5 +1,3 @@
-# Here is another update by Yakub357
-
 # Here is a new update by Yakub357
 
 # Shipping Cost Calculator
